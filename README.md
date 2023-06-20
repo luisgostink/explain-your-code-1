@@ -31,5 +31,7 @@ Add your instructions here:
 
 ## Exercise 1 | HTML is not a programming language, it is a ...
 
+HTML stands for HyperText Markup Language. It is a standard markup language when creating websites. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. 
+
 1. Open the index.html document in your code editor (VSCode). 
 2. Go through line by line and try to answer the questions and solve the tasks on your own. You can use Google for the questions Stackoverflow is also allowed. Avoid using ChatGPT or other bots.
